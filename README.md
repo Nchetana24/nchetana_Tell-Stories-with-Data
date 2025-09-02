@@ -18,7 +18,7 @@ I'm currently a Master's student in Chemical Engineering, and I'll be graduating
 # What I hope to learn
 I believe this course will significantly enhance my capabilities as a chemical engineer and directly benefit my current research project.
 I want to be able to:
-- 1. Enhance my ability to present and communicate research findings effectively so that stakeholders can understand them easily.
+1. Enhance my ability to present and communicate research findings effectively so that stakeholders can understand them easily.
 - 2. Make informed decisions based on complex datasets.
 - 3. Present engineering solutions in a compelling manner.
 
