@@ -78,10 +78,12 @@ You get the idea - just don't forget the space between the # and your title.  `#
 ### Adding images
 
 Here's an example of how to add an image to my portfolio.  
+<img src="![WhatsApp Image 2025-09-02 at 14 03 24_9dbf8f7e](https://github.com/user-attachments/assets/b390b6b3-93df-4571-8736-c5f71370bbe1)" width = "500"/>
 
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+
+<!-- ![funny dog picture](funny-dog-unsplash.jpg)
+> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
+
 
 Alternately, you can set the size of the image using just a bit of HTML: 
 
