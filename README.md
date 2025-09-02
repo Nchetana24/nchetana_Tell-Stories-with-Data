@@ -11,20 +11,16 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello everyone.
+My name is Niratakarn Chetanachan, and you can call me 'Preme'. I come from Thailand.
+I'm currently a Master's student in Chemical Engineering, and I'll be graduating in December this year.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I believe this course will significantly enhance my capabilities as a chemical engineer and directly benefit my current research project.
+I want to be able to:
+- List item #1 Enhance my ability to present and communicate research findings effectively so that stakeholders can understand them easily.
+- List item #2 Make informed decisions based on complex datasets.
+- List item #3 Present engineering solutions in a compelling manner.
 
 # Portfolio
 
