@@ -23,6 +23,15 @@ I want to be able to:
 3. Present engineering solutions in a compelling manner.
 
 # Portfolio
+## Week 3 
+### Assignment 1
+### Assignment 2
+
+## Week 4 
+### Assignment 1
+### Assignment 2
+
+# Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
