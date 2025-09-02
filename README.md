@@ -12,7 +12,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 
 # About me
 Hello everyone.
-My name is Niratakarn Chetanachan, and you can call me 'Preme'. I come from Thailand.
+My name is Niratakarn Chetanachan, and you can call me "Preme". I come from Thailand.
 I'm currently a Master's student in Chemical Engineering, and I'll be graduating in December this year.
 
 # What I hope to learn
