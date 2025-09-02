@@ -44,11 +44,9 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I]![WhatsApp Image 2025-09-02 at 14 03 24_e8ccf6fe](https://github.com/user-attachments/assets/12ce5a0d-b1a9-4f87-9a70-084b0664bcef)
-
+[Part I](final-project-part-two)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
-
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
 
