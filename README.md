@@ -23,6 +23,9 @@ I want to be able to:
 3. Present engineering solutions in a compelling manner.
 
 # Portfolio
+## Week 2
+### Assignment: Working with Tableau: Visualizing Government Debt
+
 ## Week 3 
 ### Assignment 1
 ### Assignment 2
