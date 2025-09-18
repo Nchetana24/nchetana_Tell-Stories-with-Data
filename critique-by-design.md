@@ -13,7 +13,7 @@ _Include link to the original data visualization (or screenshot - make sure to c
 
 The original data visualization topic is "The 20 Largest Solar Power Plants in the World" with reference link below:
 https://solarpower.guide/solar-energy-insights/largest-solar-plants
-<img width="1698" height="3702" alt="image" src="https://github.com/user-attachments/assets/4d66669c-1121-4931-a4a1-8dd1b031ddbe" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/4d66669c-1121-4931-a4a1-8dd1b031ddbe" />
 
 I selected this visualization because I'm interested in global warming issues and how the world is transitioning toward cleaner energy by adopting solar power plants instead of conventional power sources. I'm also curious about which countries are leading in clean energy development, their production capacity, and the efficiency levels they achieve.
 While the visualization on the website is colorful and eye-catching, it's also difficult to interpret and lacks comprehensive information. Therefore, I believe I can create a simplified version of the chart that would be more useful and accessible to the audience.
@@ -22,7 +22,8 @@ While the visualization on the website is colorful and eye-catching, it's also d
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 I've critiqued this data visualization based on Stephen Few's Data Visualization Effectiveness Profile as followed: <br>
-1.Usefulness (Score: 7/10) <br>
+
+1. Usefulness (Score: 7/10) <br>
 2. Completeness (Score: 6/10) <br>
 3. Perceptibility (Score: 3/10) <br>
 4. Truthfulness (Score: 7/10) <br>
@@ -31,9 +32,10 @@ I've critiqued this data visualization based on Stephen Few's Data Visualizatio
 7. Engagement (Score: 9/10) <br>
 
 When I first looked at the visualization of the largest solar plants, the bold, colorful, and aesthetically appealing infographic style immediately caught my attention. <br>
+
 ### What worked well: 
 - The large bars and circles effectively communicated that we were comparing the scale of each solar facility across multiple dimensions (timeline, area, and capacity). <br>
-- The design successfully draws the eye and make the chart visually engaging and attention-grabbing.
+- The design successfully draws the eye and make the chart visually engaging and attention-grabbing. <br>
 ### What didn't work well: 
 Once I moved beyond the initial impression, several issues became clear that the visualization made it difficult to compare plants precisely. Because: <br>
 - Difficult to read: The bar charts and area indicators were densely packed and hard to read, forcing viewers to trace their eyes from the area chart (resembling a pie chart) across indicator lines to match corresponding capacity bar charts. <br>
