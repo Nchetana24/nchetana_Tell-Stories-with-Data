@@ -12,7 +12,8 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 The original data visualization topic is "The 20 Largest Solar Power Plants in the World" with reference link below:
-https://solarpower.guide/solar-energy-insights/largest-solar-plants
+https://solarpower.guide/solar-energy-insights/largest-solar-plants  <br>
+
 <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/4d66669c-1121-4931-a4a1-8dd1b031ddbe" />
 
 I selected this visualization because I'm interested in global warming issues and how the world is transitioning toward cleaner energy by adopting solar power plants instead of conventional power sources. I'm also curious about which countries are leading in clean energy development, their production capacity, and the efficiency levels they achieve.
