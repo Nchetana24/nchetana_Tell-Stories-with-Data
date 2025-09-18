@@ -54,14 +54,15 @@ At first, I aim to redesin the visualization by focusing on enhancing comparabil
 2. For capacity and area visualization, I will retain the bar chart format but ensure accurate scaling and proportional representation.<br>
 3. Additionally, I plan to incorporate information showing which country leads in solar power capacity and include per capita comparisons.<br>
 I’m excited to try a many charts type that will balances clarity, insight, and storytelling in a way the original design didn’t achieve but still remain attention grabbing appealing.<br>
-### 1st plot: World Top 20 Solar Power Plants by Capacity (2021)
-<img width="800" height="500" alt="Screenshot 2025-09-18 143336" src="https://github.com/user-attachments/assets/e0d0831e-d07f-45d5-a7b3-04664830c22e" />
 
-### 2nd plot: World Leaders in Solar Efficiency in 2021
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6e26b702-0c62-47aa-8a17-edbab963005d" />
+### 1st plot
+<img width="500" height="500" alt="Screenshot 2025-09-18 143336" src="https://github.com/user-attachments/assets/e0d0831e-d07f-45d5-a7b3-04664830c22e" /> 
 
-### 3rd plot: India Dominates:  Home to the World's Largest Solar Power Capacity (2021)
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/ec8af4f8-e1db-47b2-a31e-112a21a0ebd0" />
+### 2nd plot
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6e26b702-0c62-47aa-8a17-edbab963005d" />
+
+### 3rd plot
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ec8af4f8-e1db-47b2-a31e-112a21a0ebd0" />
 
 ## Step four: Test the solution
 
@@ -103,10 +104,9 @@ I've learned many valuable lessons from my classmates' feedback: <br>
 3. The third plot: India Dominates: Home to the World's Largest Solar Power Capacity (2021) <br>
 - Viewers found this visualization very easy to understand and said it conveyed the information effectively. They suggested no changes were needed.
 
-
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._ <br>
 
 So I improved my plot as followed: <br>
 1. I removed the year from the 1st plot to reduce confusion. <br>
@@ -122,15 +122,36 @@ So I improved my plot as followed: <br>
   allowfullscreen>
 </iframe>
 
+### 2nd plot
+<iframe
+  src="https://public.tableau.com/views/Redesigncharts/Sheet3?:showVizHome=no&:embed=true"
+  width="100%"
+  height="900"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
+### 3rd plot
+<iframe
+  src="https://public.tableau.com/views/Redesigncharts/Sheet2?:showVizHome=no&:embed=true"
+  width="100%"
+  height="900"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 
 ## References
 _List any references you used here._
 Reference:
-- Choosing visualization topic from MakeoverMonday (https://makeovermonday.co.uk/) <br>
+- [Choosing visualization topic from MakeoverMonday](https://makeovermonday.co.uk/) <br>
 - Data of solar power plants
-  -  (https://solarpower.guide/solar-energy-insights/largest-solar-plants)
-  -  (https://en.wikipedia.org/wiki/List_of_photovoltaic_power_stations)
+  -  [](https://solarpower.guide/solar-energy-insights/largest-solar-plants)
+  -  [](https://en.wikipedia.org/wiki/List_of_photovoltaic_power_stations)
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._ <br>
+
+I used ChatGPT to help me in how to use Tableau for my own redesign visualization and correct grammar.
 
