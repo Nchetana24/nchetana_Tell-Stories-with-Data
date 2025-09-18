@@ -20,10 +20,11 @@ While the visualization on the website is colorful and eye-catching, it's also d
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
-I've critiqued this data visualization based on Stephen Few's Data Visualization Effectiveness Profile as followed: 
-1.Usefulness (Score: 7/10)
-2. Completeness (Score: 6/10)
-3. Perceptibility (Score: 3/10)
+
+I've critiqued this data visualization based on Stephen Few's Data Visualization Effectiveness Profile as followed: <br>
+1.Usefulness (Score: 7/10) <br>
+2. Completeness (Score: 6/10) <br>
+3. Perceptibility (Score: 3/10) <br>
 4. Truthfulness (Score: 7/10)
 5. Intuitiveness (Score: 7/10)
 6. Aesthetics (Score: 8/10)
