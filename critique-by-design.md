@@ -55,13 +55,13 @@ At first, I aim to redesin the visualization by focusing on enhancing comparabil
 3. Additionally, I plan to incorporate information showing which country leads in solar power capacity and include per capita comparisons.<br>
 I’m excited to try a many charts type that will balances clarity, insight, and storytelling in a way the original design didn’t achieve but still remain attention grabbing appealing.<br>
 ### 1st plot: World Top 20 Solar Power Plants by Capacity (2021)
-<img width="1732" height="1246" alt="Screenshot 2025-09-18 143336" src="https://github.com/user-attachments/assets/e0d0831e-d07f-45d5-a7b3-04664830c22e" />
+<img width="1000" height="500" alt="Screenshot 2025-09-18 143336" src="https://github.com/user-attachments/assets/e0d0831e-d07f-45d5-a7b3-04664830c22e" />
 
 ### 2nd plot: World Leaders in Solar Efficiency in 2021
-<img width="1726" height="1271" alt="image" src="https://github.com/user-attachments/assets/6e26b702-0c62-47aa-8a17-edbab963005d" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/6e26b702-0c62-47aa-8a17-edbab963005d" />
 
 ### 3rd plot: India Dominates:  Home to the World's Largest Solar Power Capacity (2021)
-<img width="2037" height="519" alt="image" src="https://github.com/user-attachments/assets/ec8af4f8-e1db-47b2-a31e-112a21a0ebd0" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/ec8af4f8-e1db-47b2-a31e-112a21a0ebd0" />
 
 ## Step four: Test the solution
 
@@ -92,16 +92,37 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._ 
+_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._ <br>
 
-I've 
+I've learned many valuable lessons from my classmates' feedback: <br>
+1. The first plot: World Top 20 Solar Power Plants by Capacity (2021) <br>
+- The year I included in the visualization didn't provide much value to viewers because I didn't show the timeline of when each solar plant was established—I only ranked them by capacity. This created confusion about whether the year was actually important to understanding the data.<br>
+2. The second plot: World Leaders in Solar Efficiency in 2021 <br>
+- I initially created two bar charts on the same plot with the same y-axis: the first showing the area each power plant occupies, and the second showing efficiency (calculated as area/capacity). <br>
+- Viewers critiqued that only the efficiency chart was necessary—the area chart was redundant. Additionally, although I included a description below the title, it wasn't prominent enough to catch the audience's attention, leaving them confused about why lower numbers indicated better performance. <br>
+3. The third plot: India Dominates: Home to the World's Largest Solar Power Capacity (2021) <br>
+- Viewers found this visualization very easy to understand and said it conveyed the information effectively. They suggested no changes were needed.
+
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
+So I improved my plot as followed: <br>
+1. I removed the year from the 1st plot to reduce confusion. <br>
+2. I removed the area bar chart and kept only the efficiency chart. I also enlarged the description for better visibility and changed the x-axis label to "efficiency = area/capacity" so viewers could understand the metric immediately. <br>
+3. I think the Average line of the first two plot was really help ful to differentiate each plants into groups of above and below average.
+
+### World Top 20 Solar Power Plants by Capacity in 2021
+[View my Tableau viz here](https://public.tableau.com/views/Redesigncharts/Sheet1?:showVizHome=no&:embed=true)
+
 ## References
 _List any references you used here._
+Reference:
+- Choosing visualization topic from MakeoverMonday (https://makeovermonday.co.uk/) <br>
+- Data of solar power plants
+  -  (https://solarpower.guide/solar-energy-insights/largest-solar-plants)
+  -  (https://en.wikipedia.org/wiki/List_of_photovoltaic_power_stations)
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
