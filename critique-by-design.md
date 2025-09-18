@@ -25,32 +25,32 @@ I've critiqued this data visualization based on Stephen Few's Data Visualizatio
 1.Usefulness (Score: 7/10) <br>
 2. Completeness (Score: 6/10) <br>
 3. Perceptibility (Score: 3/10) <br>
-4. Truthfulness (Score: 7/10)
-5. Intuitiveness (Score: 7/10)
-6. Aesthetics (Score: 8/10)
-7. Engagement (Score: 9/10)
+4. Truthfulness (Score: 7/10) <br>
+5. Intuitiveness (Score: 7/10) <br>
+6. Aesthetics (Score: 8/10) <br>
+7. Engagement (Score: 9/10) <br>
 
-When I first looked at the visualization of the largest solar plants, the bold, colorful, and aesthetically appealing infographic style immediately caught my attention.
+When I first looked at the visualization of the largest solar plants, the bold, colorful, and aesthetically appealing infographic style immediately caught my attention. <br>
 ### What worked well: 
-- The large bars and circles effectively communicated that we were comparing the scale of each solar facility across multiple dimensions (timeline, area, and capacity). 
+- The large bars and circles effectively communicated that we were comparing the scale of each solar facility across multiple dimensions (timeline, area, and capacity). <br>
 - The design successfully draws the eye and make the chart visually engaging and attention-grabbing.
 ### What didn't work well: 
-Once I moved beyond the initial impression, several issues became clear that the visualization made it difficult to compare plants precisely. Because:
-- Difficult to read: The bar charts and area indicators were densely packed and hard to read, forcing viewers to trace their eyes from the area chart (resembling a pie chart) across indicator lines to match corresponding capacity bar charts. 
-- Scale inconsistencies: The capacity bar charts, and timeline bubble sizes were difficult to compare accurately. I had to rely on labels for exact capacity numbers since visual estimation was nearly impossible. For example, when comparing facilities with capacities of 550MWp versus 2,245MWp, the bar height difference didn't appear to reflect the actual 4x difference.
-- Unclear visual elements: Each bar contained color gradients (darker and lighter sections) without any legend or explanation of their significance which creates confusion about what additional information they might represent.
-- Inconsistent data presentation: The timeline displayed only selected facilities while the area and capacity charts included many more countries, creating gaps in the comparative analysis.
-- Additional: The visualization doesn't show which country has the largest overall solar capacity or how each facility's size relates to energy consumption in its respective country or region.
+Once I moved beyond the initial impression, several issues became clear that the visualization made it difficult to compare plants precisely. Because: <br>
+- Difficult to read: The bar charts and area indicators were densely packed and hard to read, forcing viewers to trace their eyes from the area chart (resembling a pie chart) across indicator lines to match corresponding capacity bar charts. <br>
+- Scale inconsistencies: The capacity bar charts, and timeline bubble sizes were difficult to compare accurately. I had to rely on labels for exact capacity numbers since visual estimation was nearly impossible. For example, when comparing facilities with capacities of 550MWp versus 2,245MWp, the bar height difference didn't appear to reflect the actual 4x difference.<br>
+- Unclear visual elements: Each bar contained color gradients (darker and lighter sections) without any legend or explanation of their significance which creates confusion about what additional information they might represent.<br>
+- Inconsistent data presentation: The timeline displayed only selected facilities while the area and capacity charts included many more countries, creating gaps in the comparative analysis.<br>
+- Additional: The visualization doesn't show which country has the largest overall solar capacity or how each facility's size relates to energy consumption in its respective country or region.<br>
 
 For all these reasons, I think the primary audience seems to be the general public, i.e., people who are interested in renewable energy since this is a popular topic. In that sense, the visualization is partially effective because it grabs viewers' attention with its visually appealing graphics.
-However, I don't think it fully serves a more informed audience such as analysts or energy professionals since the visualization doesn't provide enough context or insights. Instead, they have to read additional context on the website to obtain more information.
+However, I don't think it fully serves a more informed audience such as analysts or energy professionals since the visualization doesn't provide enough context or insights. Instead, they have to read additional context on the website to obtain more information.<br>
 
 ## Step three: Sketch a solution
-At first, I aim to redesin the visualization by focusing on enhancing comparability and providing additional context.
-1. For the timeline component, I will replace the bubble chart with a format that enables clearer differentiation, likely implementing a ranked horizontal bar chart that organizes plants by their capacity in megawatts.
-2. For capacity and area visualization, I will retain the bar chart format but ensure accurate scaling and proportional representation.
-3. Additionally, I plan to incorporate information showing which country leads in solar power capacity and include per capita comparisons.
-I’m excited to try a many charts type that will balances clarity, insight, and storytelling in a way the original design didn’t achieve but still remain attention grabbing appealing.
+At first, I aim to redesin the visualization by focusing on enhancing comparability and providing additional context.<br>
+1. For the timeline component, I will replace the bubble chart with a format that enables clearer differentiation, likely implementing a ranked horizontal bar chart that organizes plants by their capacity in megawatts.<br>
+2. For capacity and area visualization, I will retain the bar chart format but ensure accurate scaling and proportional representation.<br>
+3. Additionally, I plan to incorporate information showing which country leads in solar power capacity and include per capita comparisons.<br>
+I’m excited to try a many charts type that will balances clarity, insight, and storytelling in a way the original design didn’t achieve but still remain attention grabbing appealing.<br>
 
 <img width="1732" height="1246" alt="Screenshot 2025-09-18 143336" src="https://github.com/user-attachments/assets/e0d0831e-d07f-45d5-a7b3-04664830c22e" />
 
