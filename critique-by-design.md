@@ -56,13 +56,13 @@ At first, I aim to redesin the visualization by focusing on enhancing comparabil
 I’m excited to try a many charts type that will balances clarity, insight, and storytelling in a way the original design didn’t achieve but still remain attention grabbing appealing.<br>
 
 ### 1st plot
-<img width="500" height="500" alt="Screenshot 2025-09-18 143336" src="https://github.com/user-attachments/assets/e0d0831e-d07f-45d5-a7b3-04664830c22e" /> 
+<img width="600" height="500" alt="Screenshot 2025-09-18 143336" src="https://github.com/user-attachments/assets/e0d0831e-d07f-45d5-a7b3-04664830c22e" /> 
 
 ### 2nd plot
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6e26b702-0c62-47aa-8a17-edbab963005d" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/6e26b702-0c62-47aa-8a17-edbab963005d" />
 
 ### 3rd plot
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ec8af4f8-e1db-47b2-a31e-112a21a0ebd0" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/ec8af4f8-e1db-47b2-a31e-112a21a0ebd0" />
 
 ## Step four: Test the solution
 
