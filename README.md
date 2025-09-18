@@ -24,14 +24,6 @@ I want to be able to:
 
 # Portfolio
 
-## Week 3 
-### Assignment 1
-### Assignment 2
-
-## Week 4 
-### Assignment 1
-### Assignment 2
-
 # Final Project
 
 # Examples
