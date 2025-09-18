@@ -23,24 +23,6 @@ I want to be able to:
 3. Present engineering solutions in a compelling manner.
 
 # Portfolio
-## Week 2
-### Assignment: Working with Tableau: Visualizing Government Debt
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Viz</title>
-  <style>body {margin:0;}</style>
-</head>
-<body>
-  <iframe
-    src="https://public.tableau.com/views/GovernmentDebttoGDPratio_Heatmap/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
-    width="100%" height="900" frameborder="0" allowfullscreen>
-  </iframe>
-</body>
-</html>
-
 
 ## Week 3 
 ### Assignment 1
@@ -56,6 +38,7 @@ I want to be able to:
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing overnment Debt](dataviz-examples)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
