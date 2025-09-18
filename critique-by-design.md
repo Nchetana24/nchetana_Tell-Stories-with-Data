@@ -146,8 +146,8 @@ _List any references you used here._
 Reference:
 - [Choosing visualization topic from MakeoverMonday](https://makeovermonday.co.uk/) <br>
 - Data of solar power plants
-  -  [](https://solarpower.guide/solar-energy-insights/largest-solar-plants)
-  -  [](https://en.wikipedia.org/wiki/List_of_photovoltaic_power_stations)
+  -  [The 20 Largest Solar Power Plants in the World](https://solarpower.guide/solar-energy-insights/largest-solar-plants)
+  -  [List of photovoltaic power stations](https://en.wikipedia.org/wiki/List_of_photovoltaic_power_stations)
 
 
 ## AI acknowledgements
