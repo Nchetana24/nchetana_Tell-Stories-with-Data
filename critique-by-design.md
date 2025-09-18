@@ -55,13 +55,13 @@ At first, I aim to redesin the visualization by focusing on enhancing comparabil
 3. Additionally, I plan to incorporate information showing which country leads in solar power capacity and include per capita comparisons.<br>
 I’m excited to try a many charts type that will balances clarity, insight, and storytelling in a way the original design didn’t achieve but still remain attention grabbing appealing.<br>
 ### 1st plot: World Top 20 Solar Power Plants by Capacity (2021)
-<img width="1000" height="500" alt="Screenshot 2025-09-18 143336" src="https://github.com/user-attachments/assets/e0d0831e-d07f-45d5-a7b3-04664830c22e" />
+<img width="800" height="500" alt="Screenshot 2025-09-18 143336" src="https://github.com/user-attachments/assets/e0d0831e-d07f-45d5-a7b3-04664830c22e" />
 
 ### 2nd plot: World Leaders in Solar Efficiency in 2021
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/6e26b702-0c62-47aa-8a17-edbab963005d" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6e26b702-0c62-47aa-8a17-edbab963005d" />
 
 ### 3rd plot: India Dominates:  Home to the World's Largest Solar Power Capacity (2021)
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/ec8af4f8-e1db-47b2-a31e-112a21a0ebd0" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/ec8af4f8-e1db-47b2-a31e-112a21a0ebd0" />
 
 ## Step four: Test the solution
 
@@ -113,8 +113,15 @@ So I improved my plot as followed: <br>
 2. I removed the area bar chart and kept only the efficiency chart. I also enlarged the description for better visibility and changed the x-axis label to "efficiency = area/capacity" so viewers could understand the metric immediately. <br>
 3. I think the Average line of the first two plot was really help ful to differentiate each plants into groups of above and below average.
 
-### World Top 20 Solar Power Plants by Capacity in 2021
-[View my Tableau viz here](https://public.tableau.com/views/Redesigncharts/Sheet1?:showVizHome=no&:embed=true)
+### 1st plot
+<iframe
+  src="https://public.tableau.com/views/Redesigncharts/Sheet1?:showVizHome=no&:embed=true"
+  width="100%"
+  height="900"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 
 ## References
 _List any references you used here._
