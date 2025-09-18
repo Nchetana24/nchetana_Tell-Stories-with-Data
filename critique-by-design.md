@@ -154,5 +154,5 @@ Reference:
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._ <br>
 
-I used ChatGPT to help me in how to use Tableau for my own redesign visualization and correct grammar.
+I used ChatGPT to help me on how to use Tableau for my own redesign visualization and correct grammar.
 
