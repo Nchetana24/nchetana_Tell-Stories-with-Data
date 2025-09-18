@@ -13,6 +13,7 @@ _Include link to the original data visualization (or screenshot - make sure to c
 
 The original data visualization topic is "The 20 Largest Solar Power Plants in the World" with reference link below:
 https://solarpower.guide/solar-energy-insights/largest-solar-plants
+<img width="1698" height="3702" alt="image" src="https://github.com/user-attachments/assets/4d66669c-1121-4931-a4a1-8dd1b031ddbe" />
 
 I selected this visualization because I'm interested in global warming issues and how the world is transitioning toward cleaner energy by adopting solar power plants instead of conventional power sources. I'm also curious about which countries are leading in clean energy development, their production capacity, and the efficiency levels they achieve.
 While the visualization on the website is colorful and eye-catching, it's also difficult to interpret and lacks comprehensive information. Therefore, I believe I can create a simplified version of the chart that would be more useful and accessible to the audience.
@@ -40,7 +41,18 @@ Once I moved beyond the initial impression, several issues became clear that the
 - Inconsistent data presentation: The timeline displayed only selected facilities while the area and capacity charts included many more countries, creating gaps in the comparative analysis.
 - Additional: The visualization doesn't show which country has the largest overall solar capacity or how each facility's size relates to energy consumption in its respective country or region.
 
+For all these reasons, I think the primary audience seems to be the general public, i.e., people who are interested in renewable energy since this is a popular topic. In that sense, the visualization is partially effective because it grabs viewers' attention with its visually appealing graphics.
+However, I don't think it fully serves a more informed audience such as analysts or energy professionals since the visualization doesn't provide enough context or insights. Instead, they have to read additional context on the website to obtain more information.
+
 ## Step three: Sketch a solution
+At first, I aim to redesin the visualization by focusing on enhancing comparability and providing additional context.
+1. For the timeline component, I will replace the bubble chart with a format that enables clearer differentiation, likely implementing a ranked horizontal bar chart that organizes plants by their capacity in megawatts.
+2. For capacity and area visualization, I will retain the bar chart format but ensure accurate scaling and proportional representation.
+3. Additionally, I plan to incorporate information showing which country leads in solar power capacity and include per capita comparisons.
+I’m excited to try a many charts type that will balances clarity, insight, and storytelling in a way the original design didn’t achieve but still remain attention grabbing appealing.
+
+<img width="1732" height="1246" alt="Screenshot 2025-09-18 143336" src="https://github.com/user-attachments/assets/e0d0831e-d07f-45d5-a7b3-04664830c22e" />
+
 
 ## Step four: Test the solution
 
