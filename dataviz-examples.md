@@ -11,3 +11,16 @@ _You can place some of your data viz examples from the course here.  Make sure t
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+<h2>Government Debt to GDP (1995–2019)</h2>
+
+<iframe
+  src="https://public.tableau.com/views/GovernmentDebttoGDPratio_Heatmap/Sheet1?:showVizHome=no&:embed=true"
+  width="100%"
+  height="900"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+https://public.tableau.com/views/GovernmentDebttoGDPratio_Heatmap/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
