@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
+# World Top 20 Solar Power Plants by Capacity (2021)
 Text here...
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
@@ -11,8 +11,34 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
+The original data visualization topic is "The 20 Largest Solar Power Plants in the World" with reference link below:
+https://solarpower.guide/solar-energy-insights/largest-solar-plants
+
+I selected this visualization because I'm interested in global warming issues and how the world is transitioning toward cleaner energy by adopting solar power plants instead of conventional power sources. I'm also curious about which countries are leading in clean energy development, their production capacity, and the efficiency levels they achieve.
+While the visualization on the website is colorful and eye-catching, it's also difficult to interpret and lacks comprehensive information. Therefore, I believe I can create a simplified version of the chart that would be more useful and accessible to the audience.
+
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+I've critiqued this data visualization based on Stephen Few's Data Visualization Effectiveness Profile as followed: 
+1.Usefulness (Score: 7/10)
+2. Completeness (Score: 6/10)
+3. Perceptibility (Score: 3/10)
+4. Truthfulness (Score: 7/10)
+5. Intuitiveness (Score: 7/10)
+6. Aesthetics (Score: 8/10)
+7. Engagement (Score: 9/10)
+
+When I first looked at the visualization of the largest solar plants, the bold, colorful, and aesthetically appealing infographic style immediately caught my attention.
+### What worked well: 
+- The large bars and circles effectively communicated that we were comparing the scale of each solar facility across multiple dimensions (timeline, area, and capacity). 
+- The design successfully draws the eye and make the chart visually engaging and attention-grabbing.
+### What didn't work well: 
+Once I moved beyond the initial impression, several issues became clear that the visualization made it difficult to compare plants precisely. Because:
+- Difficult to read: The bar charts and area indicators were densely packed and hard to read, forcing viewers to trace their eyes from the area chart (resembling a pie chart) across indicator lines to match corresponding capacity bar charts. 
+- Scale inconsistencies: The capacity bar charts, and timeline bubble sizes were difficult to compare accurately. I had to rely on labels for exact capacity numbers since visual estimation was nearly impossible. For example, when comparing facilities with capacities of 550MWp versus 2,245MWp, the bar height difference didn't appear to reflect the actual 4x difference.
+- Unclear visual elements: Each bar contained color gradients (darker and lighter sections) without any legend or explanation of their significance which creates confusion about what additional information they might represent.
+- Inconsistent data presentation: The timeline displayed only selected facilities while the area and capacity charts included many more countries, creating gaps in the comparative analysis.
+- Additional: The visualization doesn't show which country has the largest overall solar capacity or how each facility's size relates to energy consumption in its respective country or region.
 
 ## Step three: Sketch a solution
 
