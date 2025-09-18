@@ -148,6 +148,7 @@ Reference:
 - Data of solar power plants
   -  [The 20 Largest Solar Power Plants in the World](https://solarpower.guide/solar-energy-insights/largest-solar-plants)
   -  [List of photovoltaic power stations](https://en.wikipedia.org/wiki/List_of_photovoltaic_power_stations)
+- Some of visualization ideas from [Watch Me Viz - #MakeoverMonday 2021 Week 37 - The World's Largest Solar Power Plants](https://www.youtube.com/watch?v=BGCkC56Fysw&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=87)
 
 
 ## AI acknowledgements
