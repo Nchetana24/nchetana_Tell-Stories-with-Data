@@ -6,12 +6,28 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.
  
-Text here...
+Global fertility has fallen dramatically from large families 1950 to around two children per woman today. My project visualizes that decline with a focus on how the pattern varies by region and what the next decades might look like under UN projections. Rather than centering any single country, I stay at the regional and global levels so the class can engage with the big picture without singling out classmates’ home countries.
+
+Beyond showing the trend, I want to help a general audience understand why fertility fell (education, urbanization, child survival, costs, norms) and what it means (aging populations, shrinking workforces, policy responses). The story is descriptive and explanatory—grounded in UN and Our World in Data series and ends with a brief evidence-based discussion of levers countries use to adapt.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+Story Arc
+1. Start with What's Happening with Fertility rate around the world?
+   World fertility map (2025): use diverging color palette centered at 2.24 to make the below/above global replacement fertility divide instantly
+   clear. Also stating that - Most of Africa remains above replacement; Europe/East Asia are below.
+2. How did we get here?
+   Show the Slope plot of fertility rate from 1950 -> 2025 and projected fertility rate from 2025 -> 2100 to show that every region has declined,
+   but not at the same pace.
+3. Why did it happen?
+   Five concise drivers : women’s education/paid work, urbanization/costs, child survival & healthcare, contraception access, shifting norms/late
+   marriage.
+4. What next?
+   Possible solution: Policy/Adaptation summary
+   “What can help?” bullets: family supports (childcare, leave, cash), work–life flexibility and gender equity, selective immigration,
+   productivity/automation, pension & healthcare reform.
 
+Balanced note: smaller families reflect progress; challenge is adapting.
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 <img width="2117" height="1286" alt="image" src="https://github.com/user-attachments/assets/79b3c21a-7d96-4015-8d3f-ff0ca66cbc88" />
