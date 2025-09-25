@@ -37,12 +37,12 @@ Story Arc
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 I use these data sources for fertility rate each year from 1950 to 2100 (projection) to make the visualization:
-- https://www.statista.com/statistics/1034075/fertility-rate-world-continents-1950-2020/
-- https://database.earth/population/world/fertility-rate
-- https://en.wikipedia.org/wiki/List_of_countries_by_total_fertility_rate
+- Annual total fertility rate in each continent and worldwide from 1950 to 2023, with projections until 2050: https://www.statista.com/statistics/1034075/fertility-rate-world-continents-1950-2020/
+- Total Fertility Rate of World: https://database.earth/population/world/fertility-rate
+- List of countries by total fertility rate: https://en.wikipedia.org/wiki/List_of_countries_by_total_fertility_rate
 I used the following sources to gather facts about fertility rates, enabling me to tell the story of how the decline in fertility rates occurred and explore possible solutions to address this issue.
-- https://www.pewresearch.org/short-reads/2025/08/15/5-facts-about-global-fertility-trends/
-- https://ourworldindata.org/global-decline-fertility-rate
+- 5 facts about global fertility trends:  https://www.pewresearch.org/short-reads/2025/08/15/5-facts-about-global-fertility-trends/
+- The global decline of the fertility rate: https://ourworldindata.org/global-decline-fertility-rate
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
@@ -55,10 +55,19 @@ I used the following sources to gather facts about fertility rates, enabling me 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan to complete my final project by combining the fertility datasets with interactive visualizations built in Tableau and polished static charts produced in Python.
+The workflow will include:
+1. Collecting and cleaning fertility rate data by world region and year.
+2. Designing each visualization (map, slope chart projections) to align with the story arc developed in my outline.
+3. Annotating visuals with direct labels and short explanations for clarity.
+4. Publishing the final interactive and static graphics on GitHub Pages, ensuring accessibility and proper citation.
+
+This approach allows me to merge interactive exploration (via Tableau) with carefully designed explanatory graphics (via Python), creating a cohesive, data-driven story about global fertility decline.
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used ChatGPT to help with how to make the slope plot using python.
