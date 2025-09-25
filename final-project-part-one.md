@@ -37,12 +37,12 @@ Story Arc
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 I use these data sources for fertility rate each year from 1950 to 2100 (projection) to make the visualization:
-https://www.statista.com/statistics/1034075/fertility-rate-world-continents-1950-2020/
-https://database.earth/population/world/fertility-rate
-https://en.wikipedia.org/wiki/List_of_countries_by_total_fertility_rate
+- https://www.statista.com/statistics/1034075/fertility-rate-world-continents-1950-2020/
+- https://database.earth/population/world/fertility-rate
+- https://en.wikipedia.org/wiki/List_of_countries_by_total_fertility_rate
 I used the following sources to gather facts about fertility rates, enabling me to tell the story of how the decline in fertility rates occurred and explore possible solutions to address this issue.
-https://www.pewresearch.org/short-reads/2025/08/15/5-facts-about-global-fertility-trends/
-https://ourworldindata.org/global-decline-fertility-rate
+- https://www.pewresearch.org/short-reads/2025/08/15/5-facts-about-global-fertility-trends/
+- https://ourworldindata.org/global-decline-fertility-rate
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
