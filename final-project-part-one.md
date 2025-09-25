@@ -31,7 +31,7 @@ Story Arc
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/79b3c21a-7d96-4015-8d3f-ff0ca66cbc88" />
 
-<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/81a4281f-c625-46a2-9985-35c4df68367f" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/81a4281f-c625-46a2-9985-35c4df68367f" />
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
