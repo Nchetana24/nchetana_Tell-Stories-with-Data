@@ -40,6 +40,7 @@ I use these data sources for fertility rate each year from 1950 to 2100 (project
 - Annual total fertility rate in each continent and worldwide from 1950 to 2023, with projections until 2050: https://www.statista.com/statistics/1034075/fertility-rate-world-continents-1950-2020/
 - Total Fertility Rate of World: https://database.earth/population/world/fertility-rate
 - List of countries by total fertility rate: https://en.wikipedia.org/wiki/List_of_countries_by_total_fertility_rate
+  
 I used the following sources to gather facts about fertility rates, enabling me to tell the story of how the decline in fertility rates occurred and explore possible solutions to address this issue.
 - 5 facts about global fertility trends:  https://www.pewresearch.org/short-reads/2025/08/15/5-facts-about-global-fertility-trends/
 - The global decline of the fertility rate: https://ourworldindata.org/global-decline-fertility-rate
