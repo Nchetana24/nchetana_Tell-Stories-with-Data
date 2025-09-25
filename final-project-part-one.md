@@ -4,7 +4,7 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.
  
 Text here...
 
@@ -14,8 +14,9 @@ Text here...
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+<img width="2117" height="1286" alt="image" src="https://github.com/user-attachments/assets/79b3c21a-7d96-4015-8d3f-ff0ca66cbc88" />
 
-Text here...
+<img width="2196" height="1073" alt="image" src="https://github.com/user-attachments/assets/81a4281f-c625-46a2-9985-35c4df68367f" />
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
