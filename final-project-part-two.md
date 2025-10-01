@@ -33,9 +33,9 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What category you made for New Year's resolution?  | Obviously about health  |  Majority focus health rather than losing weight | Agreed with Interview 1 |
+| Do you think saving more money is one of the important New Yea'rs resolution | For sure, it most likely be a weekly plan not even yearly plan |    Agreed with Interview 1  | I think money is really important topic for New Year's resolution |
+| Do you think how long of New Year's resolution last? | I was just going to ask, because I think it even less than a month |  I'm not sure | Yeah, I want to know how many percent people acutally success in those resolutions? |
 
 
 # Identified changes for Part III
