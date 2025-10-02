@@ -47,11 +47,13 @@ This mixed group will allow me to test whether my visuals are clear and engaging
 
 Text here!
 
+The goal of the interviews is to understand how my draft visualizations and narratives are perceived by the interviewer. I want to identify what works, what didn't work, is there any questions or confusion, any other information they would want to know.
+
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Assess clarity of visualizations | When you look at the specific chart, what do you think I'm trying to show? |
+| Measure engagement and relatability | Does this story feel relevant to you? have you done it before and what are the results? |
+| Identify improvement opportunities | What part of the visualization was confusing or any information you would like to know further? |
 
 
 Text here!
