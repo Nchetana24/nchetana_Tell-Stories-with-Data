@@ -36,6 +36,12 @@ Each storyboard panel is designed to walk the reader through one part of this na
 
 Text here!
 
+The primary audience I hope to reach might be broad but more specific to the reader who are interested in self-improvment and habit formation, particularly young adults who more likely to make New Year's resolutions that other age group. I also want to resonate with older adults to show them that it is possible to succeed in New Year's resolution by starting making one. </br>
+
+In this project I've 4 age groups (18-29, 30-49, 50-64, 65+) so I will try to find people who are in those age groups how they think about these New Year's resolutions so I can compare them. </br>
+
+This mixed group will allow me to test whether my visuals are clear and engaging for them. The feedback will guide me in refining my visualization so that the final story communicates effectively across a broad audience. </br>
+
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
