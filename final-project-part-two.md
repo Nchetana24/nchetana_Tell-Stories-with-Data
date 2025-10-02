@@ -74,18 +74,21 @@ Text here!
 > Document the changes you plan on implementing next week to address any issues identified.  
 
 Text here!
+Based on the three interviewers, they found that the visualizations generally clear and relatable, especially around health and financial categories. However, they also raised specific questions about the scope of the data and wanted more clarity around resolution success and failure rates. To address this, I will refine my visuals to emphasize transparency and ensure clear labeling. </br>
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Visualizations are clear and easy to follow, but still need better context. | Keep current chart formats, but add brief captions explaining what each chart represents. |
+| Participants wanted clarification about whether failure rates are U.S.-only or global. | Add a note to specify the geographic scope of each dataset (U.S. vs global).|
+| One interviewer want to see more details about the failing/sucess rate percentages.|Refine failing-rate visualization by adding clearer axis labels and a breakdown of percentage values or add another chart showing percentage of people who succeed/fail in resolutions. |
+|Financial resolutions stood out as highly important across participants. | Reorder story so that health-related and money/finances is highlighted resolutions.|
 
 > ...include any final thoughts you have here. 
 
 Text here!
+
+The interviewers think that the topic engaging and relevant, especially health and finance-related resolutions. For Part III, I will focus on clarifying data sources, adding annotations, and including both failure and success perspectives to strengthen the story’s credibility and relatability. </br>
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
