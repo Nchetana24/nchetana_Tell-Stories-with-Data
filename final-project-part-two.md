@@ -104,5 +104,5 @@ Research Shows 43% Of People Expect To Give Up Their New Year's Resolutions By F
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
-I used ChatGPT to paraphrase and correct grammar. 
+I use ChatGPT to paraphrase and correct grammar from the my draft. 
 
