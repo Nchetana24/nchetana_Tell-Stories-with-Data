@@ -8,9 +8,26 @@ Since I've change the topic from Final project I (about fertility rate) to Final
 I've structred the narrative around the key stages of New Year's resolutions. 
 The opening will introduce the common perception of "New Year's resolution most likely failed", followed by a research paper showing that percentage of people making resolution succeed more than the one that doesn't. This visualization will just be paragraph with picture on the side. </br>
 
-Next, I plan to include a participation chart showing how many Americans made New Year's Resolutions in 2024. </br> 
-Then from those who made the resolutions, which age group has more percentage of  
+Next, I plan to include a participation chart showing how many Americans made New Year's Resolutions in 2024: using Human Icon percentage chart. </br> 
+Then from those who made the resolutions, will be broken down by age group: using Bar chart. </br>
+Then I'll move on to dot plot of NY's resolution category by each age group to see which category each age focusing on. </br> 
 
+A follow-up section will extend this analysis globally, using a regional and gender breakdown from the 2025 statistics report by Table chart and highlight some of the most common categories among the region. </br>
+
+To show the challenges, I plan to adapt a survival-curve style bar or line chart that illustrates how long resolutions last. </br>
+
+Finally, I’ll close with a visual summary that combines data on why resolutions fail with strategies that help people succeed (approach goals, moderate support, small measurable habits).
+
+So in Shorthand draft, I will be organized as a scrolling story arc: 
+1. hook (Title)
+2. Americans participation
+3. American resolution categories
+4. Global regional categories comparison
+5. Duration (how long does resolutions last)
+6. Reasons why fail and what help
+7. Key takeaway.
+
+Each storyboard panel is designed to walk the reader through one part of this narrative, supported by charts built in Tableau, Datawrapper or PowerPoint and Excel (if needed).
 
 # User research 
 
