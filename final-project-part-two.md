@@ -3,7 +3,8 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+Text here! </br>
+
 Since I've change the topic from Final project I (about fertility rate) to Final project II (New Year's Resolution), I've drafted a new storyboard.
 I've structred the narrative around the key stages of New Year's resolutions. 
 The opening will introduce the common perception of "New Year's resolution most likely failed", followed by a research paper showing that percentage of people making resolution succeed more than the one that doesn't. This visualization will just be paragraph with picture on the side. </br>
