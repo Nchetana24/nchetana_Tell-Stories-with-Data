@@ -93,14 +93,16 @@ The interviewers think that the topic engaging and relevant, especially health a
 ## References
 _List any references you used here._
 
-19 Surprising New Year’s Resolution Statistics (2024 Updated) [https://insideoutmastery.com/new-years-resolution-statistics/]
-New Year's Resolution Statistics By Age and Facts [https://coolest-gadgets.com/new-years-resolution-statistics/]
-Who makes New Year’s resolutions, and why? [https://www.pewresearch.org/short-reads/2024/01/29/new-years-resolutions-who-makes-them-and-why/]
-New Year's Resolutions Statistics and Trends [https://www.driveresearch.com/market-research-company-blog/new-years-resolutions-statistics/]
-New Year’s Resolutions Statistics (2024) – Forbes Health [https://www.forbes.com/health/mind/new-years-resolutions-statistics/]
-Research Shows 43% Of People Expect To Give Up Their New Year's Resolutions By February [https://www.sundried.com/blogs/training/research-shows-43-of-people-expect-to-give-up-their-new-year-s-resolutions-by-february]
+19 Surprising New Year’s Resolution Statistics (2024 Updated) [https://insideoutmastery.com/new-years-resolution-statistics/] </br>
+New Year's Resolution Statistics By Age and Facts [https://coolest-gadgets.com/new-years-resolution-statistics/] </br>
+Who makes New Year’s resolutions, and why? [https://www.pewresearch.org/short-reads/2024/01/29/new-years-resolutions-who-makes-them-and-why/] </br>
+New Year's Resolutions Statistics and Trends [https://www.driveresearch.com/market-research-company-blog/new-years-resolutions-statistics/] </br>
+New Year’s Resolutions Statistics (2024) – Forbes Health [https://www.forbes.com/health/mind/new-years-resolutions-statistics/] </br>
+Research Shows 43% Of People Expect To Give Up Their New Year's Resolutions By February [https://www.sundried.com/blogs/training/research-shows-43-of-people-expect-to-give-up-their-new-year-s-resolutions-by-february] </br>
 
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used ChatGPT to paraphrase and correct grammar. 
 
